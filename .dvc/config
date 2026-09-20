@@ -1,0 +1,6 @@
+[core]
+    remote = hf-bucket
+['remote "hf-bucket"']
+    url = s3://MLTP-dvc/dvc-store
+    endpointurl = https://s3.hf.co/moussll
+    region = us-east-1
